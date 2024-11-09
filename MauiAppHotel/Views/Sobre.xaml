@@ -27,5 +27,18 @@
                         
                     </VerticalStackLayout>
                 </Frame>
-               </VerticalStackLayout>
+
+
+                    <StackLayout Spacing =" 10">
+                     
+                                          <Button  Text="Voltar" 
+                 Clicked="Button_Clicked"    
+                 BackgroundColor ="Black"/>
+
+                </StackLayout>
+            
+
+
+            </VerticalStackLayout>
+       
 </ContentPage>
